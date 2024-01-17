@@ -1,3 +1,0 @@
-gunicore
-flask
-google-generativeai
